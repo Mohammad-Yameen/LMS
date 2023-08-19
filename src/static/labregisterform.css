@@ -1,0 +1,13 @@
+.container {
+  width: 800px;
+}
+
+form{
+  top: 10px;
+  border: 2px solid #000;
+  padding: 10px;
+  border-radius: 10px;
+}
+h1{
+  margin-top: 50px;
+}

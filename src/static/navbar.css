@@ -1,0 +1,15 @@
+.nav{
+    background-color: #ffffff;
+    height: 100px;
+    width: 100%;
+}
+
+
+.logo{
+    font-weight: 900;
+    width: 100px;
+}
+.navlink{
+    margin-left: 15px;
+    background-color: #ffffff;;
+}

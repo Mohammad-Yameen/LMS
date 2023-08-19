@@ -1,0 +1,56 @@
+/* BillDetailPage.css */
+
+.bill-details-container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.bill-details-container h2 {
+  margin-bottom: 20px;
+}
+
+.bill-details {
+  border: 1px solid #ddd;
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.bill-details p {
+  margin: 5px 0;
+}
+
+.tests-table {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tests-table th,
+.tests-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.tests-table th {
+  background-color: #f5f5f5;
+  text-align: left;
+}
+
+.tests-table input {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.update-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
